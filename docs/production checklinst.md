@@ -1,0 +1,6 @@
+- Secrets injected via K8s
+- Approval gates enforced
+- Terraform backend configured
+- Dynatrace token tested
+- ServiceNow API user validated
+- AWS Cost Explorer permissions verified
